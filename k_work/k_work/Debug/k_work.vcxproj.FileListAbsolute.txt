@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\k_work.vcxprojAssemblyReference.cache
+C:\Users\User\Documents\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\kwork.MainForm.resources
+C:\Users\User\Documents\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\k_work.vcxproj.GenerateResource.cache
+C:\Users\User\Documents\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\kwork.AboutForm.resources
+C:\Users\User\Documents\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\kwork.RegisterForm.resources
+E:\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\k_work.vcxprojAssemblyReference.cache
+E:\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\kwork.AboutForm.resources
+E:\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\kwork.MainForm.resources
+E:\Семестр 5\ПИ\Курсовая работа\k_work\k_work\Debug\k_work.vcxproj.GenerateResource.cache
